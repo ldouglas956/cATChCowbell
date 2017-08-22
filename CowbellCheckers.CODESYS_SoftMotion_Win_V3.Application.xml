@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbolconfiguration xmlns="http://www.3s-software.com/schemas/Symbolconfiguration.xsd">
+  <Header>
+    <Version>3.5.9.0</Version>
+    <SymbolConfigObject version="3.5.9.10" />
+    <ProjectInfo name="CowbellCheckers" devicename="CODESYS_SoftMotion_Win_V3" appname="Application" />
+  </Header>
+  <TypeList />
+</Symbolconfiguration>
